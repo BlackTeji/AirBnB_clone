@@ -1,6 +1,6 @@
-###HBNB - The Console
+#HBNB - The Console
 
-#Holberton AirBnB Clone project
+##Holberton AirBnB Clone project
 
 This is the first portion of a project to build a clone of the AirBnB website. The first goal of this project is to create a program that serializes and deserializes objects into json files, and reloads them on startup for use between sessions, or in other words making the data persist between sessions.
 
